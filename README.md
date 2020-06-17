@@ -1,2 +1,2 @@
-# portfolio2.github.io
- Lancy's portfolio v2.0
+# portfolio
+my portfolio site

@@ -29,6 +29,9 @@
 /*------------------------ 1 Body and Core Css ------------------------*/
 
 body {
+    /*
+    font-family: 'Poppins', sans-serif;
+    */
     font-family: 'Poppins', sans-serif;
     background: #000;
 }
@@ -241,6 +244,13 @@ blockquote {
 .main.challange_your_fear{
     background: url(http://facethefear.lancy.design/main_img1.png) no-repeat;
     background-size: cover;
+    background-position: top center;
+}
+
+.main.human_prime{
+    background: url(../img/human_prime.png) no-repeat;
+    background-size: cover;
+    background-position: top center;
 }
 
 .main.video{
@@ -271,7 +281,7 @@ blockquote {
 }
 
 .main-title {
-    font-size: 28px;
+    font-size: 60px;
     line-height: 48px;
     color: #fff;
     font-weight: 500;
@@ -1155,7 +1165,7 @@ header {
 }
 
 .about-text {
-    font-size: 26px;
+    font-size: 20px;
     color: #fff;
     line-height: 45px;
     font-weight: 400;
@@ -1318,7 +1328,7 @@ header {
 }
 
 .blog-title {
-    font-size: 35px;
+    font-size: 20px;
     color: #fff;
     font-weight: 600;
     line-height: 50px;
@@ -1926,7 +1936,7 @@ footer p {
     }
 
     .main-title {
-        font-size: 17px;
+        font-size: 30px;
     }
 
 
